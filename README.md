@@ -1,3 +1,4 @@
+Open the .ipynb file with VS CODE
 # SolarWindEnergyPrediction
 Project Overview
 This project focuses on forecasting solar, wind, and total renewable energy generation using a multi-model approach. The goal is to evaluate, compare, and utilize different forecasting techniques for improved accuracy and actionable insights.
@@ -31,8 +32,8 @@ Model forecasts for solar, wind, and total energy generation.
 Comparative performance metrics across forecasting methods.
 
 Insights to aid energy resource planning and decision making.
+Key Contributions
 
-⚡️ Key Contributions
 Developed a multi-model forecasting solution for solar, wind, and total generation.
 
 Created robust feature engineering pipelines for time-series forecasting.
