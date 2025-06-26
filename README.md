@@ -25,6 +25,7 @@ Forecasting Models: Evaluating and comparing performance across different foreca
 Validation & Evaluation: Computing error metrics (e.g., MAE, RMSE) to assess model effectiveness.
 
 Results
+
 The project delivers:
 
 Model forecasts for solar, wind, and total energy generation.
